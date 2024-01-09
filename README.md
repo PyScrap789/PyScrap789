@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PyScrap789
-- 👀 I’m interested in Game Development with Unity
+- 👀 I’m interested in Game Development with Godot
 - 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on game jams
 - 📫 How to reach me - DM me on twitter
 
 <!---
